@@ -1,0 +1,25 @@
+.container {
+  position: relative;
+  max-width: 600px; /* Maximum width */
+ 
+}
+
+.container .content {
+  position: absolute; 
+  bottom: 0; 
+  background: 
+  background: white;
+  color: orange;
+  width: 200%; 
+  padding: 20px;
+}
+.container h2{
+     position: absolute; 
+  top: 16%; 
+  background: 
+  background: white;
+  color:red;
+  width: 200%; 
+  padding: 90px;
+    font-family: monospace;
+}
